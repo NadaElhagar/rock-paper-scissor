@@ -1,2 +1,1 @@
-print('nada gamal')
-print(25)
+print('nada')
